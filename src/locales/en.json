@@ -1,0 +1,30 @@
+{
+  "toast": {
+    "languageSwitched": "Language switched",
+    "themeDark": "Switched to (Dark Theme)",
+    "themeLight": "Switched to (Light Theme)"
+  },
+  "global": {
+    "copy": "Copy",
+    "delete": "Delete",
+    "download": "Download",
+    "link": "Link",
+    "reset": "Reset",
+    "share": "Share",
+    "goBack": "Go Back",
+    "copyok": "(Selected data) copied",
+    "copyng": "Unable to copy (selected data)",
+    "shareCopied": "(Share link) copied",
+    "selectLanguage": "Select Language"
+  },
+  "bykeon-service": "ByKeon Service",
+  "easy2get": "Easy to get",
+  "yourIp": "Your IP address",
+  "QR-Code-Name": "QR Code Service",
+  "QR-Make-Name": "Generate QR Code",
+  "QR-Make-Desc": "Enter content to generate QR Code instantly",
+  "QR-Load-Name": "Load QR Code",
+  "QR-Load-Desc": "Analyze QR Code from image file",
+  "QR-Scan-Name": "Scan QR Code",
+  "QR-Scan-Desc": "Use camera to scan physical QR Code"
+}

@@ -1,0 +1,30 @@
+{
+  "toast": {
+    "languageSwitched": "語系已切換",
+    "themeDark": "已切換為【深色主題】",
+    "themeLight": "已切換為【淺色主題】"
+  },
+  "global": {
+    "copy": "複製",
+    "delete": "刪除",
+    "download": "下載",
+    "link": "連結",
+    "reset": "重置",
+    "share": "分享",
+    "goBack": "返回",
+    "copyok": "已複製【指定資料】",
+    "copyng": "無法複製【指定資料】",
+    "shareCopied": "已複製【分享連結】",
+    "selectLanguage": "選擇語系"
+  },
+  "bykeon-service": "ByKeon 服務網",
+  "easy2get": "簡單地取得",
+  "yourIp": "您的 IP 位址",
+  "QR-Code-Name": "QR 碼服務網",
+  "QR-Make-Name": "產生 QR 碼",
+  "QR-Make-Desc": "輸入內容即時產生 QR 碼",
+  "QR-Load-Name": "載入 QR 碼",
+  "QR-Load-Desc": "分析圖片檔案中的 QR 碼",
+  "QR-Scan-Name": "掃描 QR 碼",
+  "QR-Scan-Desc": "使用相機掃描實體 QR 碼"
+}

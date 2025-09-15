@@ -1,0 +1,28 @@
+{
+  "lang_local_name": {
+    "en": "English",
+    "tw": "繁體中文",
+    "cn": "简体中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "de": "Deutsch",
+    "es": "Español",
+    "fr": "Français",
+    "pt": "Português",
+    "ru": "Русский",
+    "ar": "العربية"
+  },
+  "lang_known_name": {
+    "en": "English",
+    "tw": "Traditional Chinese",
+    "cn": "Simplified Chinese",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "de": "German",
+    "es": "Spanish",
+    "fr": "French",
+    "pt": "Portuguese",
+    "ru": "Russian",
+    "ar": "Arabic"
+  }
+}

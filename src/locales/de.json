@@ -1,0 +1,30 @@
+{
+  "toast": {
+    "languageSwitched": "Sprache gewechselt",
+    "themeDark": "Zu (Dunklem Thema) gewechselt",
+    "themeLight": "Zu (Hellem Thema) gewechselt"
+  },
+  "global": {
+    "copy": "Kopieren",
+    "delete": "Löschen",
+    "download": "Herunterladen",
+    "link": "Link",
+    "reset": "Zurücksetzen",
+    "share": "Teilen",
+    "goBack": "Zurück",
+    "copyok": "(Ausgewählte Daten) kopiert",
+    "copyng": "(Ausgewählte Daten) konnte nicht kopiert werden",
+    "shareCopied": "(Freigabelink) kopiert",
+    "selectLanguage": "Sprache auswählen"
+  },
+  "bykeon-service": "ByKeon Dienst",
+  "easy2get": "Einfach zu erhalten",
+  "yourIp": "Ihre IP-Adresse",
+  "QR-Code-Name": "QR-Code Dienst",
+  "QR-Make-Name": "QR-Code erstellen",
+  "QR-Make-Desc": "Inhalt eingeben, um QR-Code sofort zu erzeugen",
+  "QR-Load-Name": "QR-Code laden",
+  "QR-Load-Desc": "QR-Code aus Bilddatei analysieren",
+  "QR-Scan-Name": "QR-Code scannen",
+  "QR-Scan-Desc": "Mit Kamera physischen QR-Code scannen"
+}

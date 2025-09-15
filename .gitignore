@@ -1,0 +1,16 @@
+# === Node.js ===
+node_modules/
+
+# === Build ===
+dist/
+#dist-seo/
+dist-seo-view/
+
+# === VS Code ===
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# === 系統檔案 ===
+.DS_Store
+Thumbs.db

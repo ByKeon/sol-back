@@ -1,0 +1,30 @@
+{
+  "toast": {
+    "languageSwitched": "Idioma cambiado",
+    "themeDark": "Cambiado a (Tema Oscuro)",
+    "themeLight": "Cambiado a (Tema Claro)"
+  },
+  "global": {
+    "copy": "Copiar",
+    "delete": "Eliminar",
+    "download": "Descargar",
+    "link": "Enlace",
+    "reset": "Restablecer",
+    "share": "Compartir",
+    "goBack": "Volver",
+    "copyok": "(Datos seleccionados) copiados",
+    "copyng": "No se pueden copiar (datos seleccionados)",
+    "shareCopied": "(Enlace para compartir) copiado",
+    "selectLanguage": "Seleccionar idioma"
+  },
+  "bykeon-service": "Servicio ByKeon",
+  "easy2get": "Fácil de obtener",
+  "yourIp": "Tu dirección IP",
+  "QR-Code-Name": "Servicio de Código QR",
+  "QR-Make-Name": "Generar Código QR",
+  "QR-Make-Desc": "Ingresa contenido para generar un Código QR al instante",
+  "QR-Load-Name": "Cargar Código QR",
+  "QR-Load-Desc": "Analizar Código QR desde archivo de imagen",
+  "QR-Scan-Name": "Escanear Código QR",
+  "QR-Scan-Desc": "Usar la cámara para escanear un Código QR físico"
+}

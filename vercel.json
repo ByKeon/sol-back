@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "dist-seo",
+  "rewrites": [{ "source": "/:path*", "destination": "/index.html" }]
+}

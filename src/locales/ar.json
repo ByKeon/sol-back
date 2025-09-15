@@ -1,0 +1,30 @@
+{
+  "toast": {
+    "languageSwitched": "تم تغيير اللغة",
+    "themeDark": "تم التبديل إلى (الوضع الداكن)",
+    "themeLight": "تم التبديل إلى (الوضع الفاتح)"
+  },
+  "global": {
+    "copy": "نسخ",
+    "delete": "حذف",
+    "download": "تنزيل",
+    "link": "رابط",
+    "reset": "إعادة تعيين",
+    "share": "مشاركة",
+    "goBack": "رجوع",
+    "copyok": "تم نسخ (البيانات المحددة)",
+    "copyng": "لا يمكن نسخ (البيانات المحددة)",
+    "shareCopied": "تم نسخ (رابط المشاركة)",
+    "selectLanguage": "اختر اللغة"
+  },
+  "bykeon-service": "خدمة ByKeon",
+  "easy2get": "سهولة الوصول",
+  "yourIp": "عنوان IP الخاص بك",
+  "QR-Code-Name": "خدمة رمز QR",
+  "QR-Make-Name": "إنشاء رمز QR",
+  "QR-Make-Desc": "أدخل المحتوى لإنشاء رمز QR فورياً",
+  "QR-Load-Name": "تحميل رمز QR",
+  "QR-Load-Desc": "تحليل رمز QR من ملف الصورة",
+  "QR-Scan-Name": "مسح رمز QR",
+  "QR-Scan-Desc": "استخدام الكاميرا لمسح رمز QR فعلي"
+}
