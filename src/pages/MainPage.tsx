@@ -10,6 +10,7 @@ import {
 } from '@solana/wallet-adapter-react-ui';
 
 import '@solana/wallet-adapter-react-ui/styles.css';
+import CustomWalletButton from '@/components/CustomWalletButton';
 
 export function MainPage() {
   const network = 'devnet';
@@ -17,12 +18,18 @@ export function MainPage() {
 
   return (
     <ConnectionProvider endpoint={endpoint}>
-      {/* 不傳 wallets，讓系統自動偵測瀏覽器裡注入的錢包 */}
       <WalletProvider wallets={[]} autoConnect={true}>
+        {/* WalletModalProvider 只給官方 MultiButton 用；我們的 CustomModal 自己控管 */}
         <WalletModalProvider>
-          <div className="w-full flex justify-center p-8 gap-12">
-            <h2>Solana Wallet Connect 範例</h2>
-            <WalletMultiButton />
+          <div className="flex flex-col items-center gap-6 p-8">
+            <h2 className="text-xl font-bold mb-4">
+              Solana Wallet Connect 範例
+            </h2>
+
+            <div className="flex flex-row gap-6">
+              <WalletMultiButton />
+              <CustomWalletButton />
+            </div>
           </div>
         </WalletModalProvider>
       </WalletProvider>
